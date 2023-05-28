@@ -14,7 +14,11 @@
 -------------------------------------------------------------------------------
 
 # Overview
-The WhatsApp Chat Analyzer is designed to process a WhatsApp chat export file and extract valuable information from it. It can analyze various aspects of the chat, such as message frequency, popular words, participant statistics, and more. By gaining insights from the chat data, users can better understand the dynamics and patterns within their WhatsApp conversations.
+The WhatsApp Chat Analyzer is designed to process a WhatsApp chat export file and extract valuable information from it. It can analyze various aspects of the chat, such as message frequency,
+
+https://github.com/Tapalina/whatsapp_Chat_Analyzer/assets/85605662/69af21dc-8103-4472-906f-9f3f45642e44
+
+ popular words, participant statistics, and more. By gaining insights from the chat data, users can better understand the dynamics and patterns within their WhatsApp conversations.
 
 -------------------------------------------------------------------------------
 
@@ -33,3 +37,9 @@ The project offers the following features:
 - Message Sentiment Analysis: The analyzer can perform sentiment analysis on the messages to determine their emotional tone (positive, negative, or neutral).
 
 - Interactive Dashboard: The project includes an interactive dashboard that presents the analysis results in a user-friendly and visually appealing manner.
+
+
+ Website is currently hosted on Streamlit Cloud. You can find it at (https://tapalina-whatsapp-chat-analyzer-app-8dalo6.streamlit.app/).
+ Various python libraries like emoji, matplotlib, pandas ,seaborn , streamlit , urlextract,  wordcloud, regex , etc. are used to provide different functionalities of application.
+ 
+ Here is a glimmpse of how the application works........
